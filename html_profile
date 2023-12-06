@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ .name-section {
+    background-color: #664B3E;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+ }
+ .name-quote {
+    font-weight: bold;
+ }
+ .about-me {
+    background-color: #664B3E;
+    padding: 10px;
+    margin: 10px;
+    text-align: justify;
+ }
+ .image {
+    width: 200px;
+    height: 250px;
+ }
+</style>
+</head>
+<body>
+
+<div class="name-section">
+ <h1>Marcus Lavengco</h1>
+ <p>Section: IT221</p>
+ <p>Age: 23</p>
+ <p class="name-quote">FAILURE IS GOOD, LEARN FROM YOUR MISTAKES</p>
+ <img class="image" src="marcus.jpg" alt="Custom Image">
+</div>
+
+<div class="about-me">
+ <h2>Skills</h2>
+ <ul>
+ <li>Critical Thinking</li>
+ <li>Time Management</li>
+ <li>Adaptability</li>
+ <li>Effective Communication</li>
+ </ul>
+ <p>ABOUT ME:
+Is passionate about coding in IT, aspiring to graduate and continually enhance his skills. His goal is not just personal success but securing a financially stable future for his family, I believe that every line of code i write is a step towards building a better life for myself and for my family.</p>
+</div>
+
+</body>
+</html>
